@@ -22,6 +22,6 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE.md para mais detal
 Clone este repositório e instale as dependências:
 
 ```bash
-git clone https://github.com/PedroLima09/projeto-agenda.git
-cd projeto-agenda
+git clone https://github.com/PedroLima09/projetoAgenda.git
+cd projetoAgenda
 pip install -r requirements.txt
